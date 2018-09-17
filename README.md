@@ -1,4 +1,4 @@
-# Data-Portfolio
+# Data Portfolio
 This is my official data portfolio repository, included inside is various projects I have completed for self teaching purposes to further my knowledge of Data Science. The projects are made using Jupyter Notebooks and commented using Markdown.
 # Contents
 - [16-17' NBA Analysis](https://github.com/justingill/Data-Portfolio/blob/master/NBA_Analysis.ipynb): This is an exploratory data analysis project used to examine the 2016-17 NBA season. By using libraries like Seaborn, Pandas and Numpy we can look at detailed information about players, leaderboards of the specific season, and observe trends from previous seasons compared to the 16-17 season.
