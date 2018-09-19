@@ -1,2 +1,5 @@
-# Data-Portfolio
-This is my official data portfolio, included inside is various projects I have completed. 
+# Data Portfolio
+This is my official data portfolio repository, included inside is various projects I have completed for self teaching purposes to further my knowledge of Data Science. The projects are made using Jupyter Notebooks and commented using Markdown.
+# Contents
+- [16-17' NBA Analysis](https://github.com/justingill/Data-Portfolio/blob/master/NBA_Analysis.ipynb): This is an exploratory data analysis project used to examine the 2016-17 NBA season. By using libraries like Seaborn, Pandas and Numpy we can look at detailed information about players, leaderboards of the specific season, and observe trends from previous seasons compared to the 16-17' season.
+- [City Cycle Consumption Predictions](https://github.com/justingill/Data-Portfolio/blob/master/City_Cycle_Consumption.ipynb): This is a problem drawn from the UCI machine learning repository. We are given features such as car displacement, weight, car name, etc and are tasked with creating a regression model to predict mile per gallon fuel consumption of a specific car. 
