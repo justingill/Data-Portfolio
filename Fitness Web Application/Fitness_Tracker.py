@@ -23,12 +23,12 @@ import csv
 # We want this to be switched to a SQL database at some point.
 # Currently we read from a csv file that can be created with the columns
 # Exercise, Reps, Sets, and Datetime
-df = pd.read_csv('workout.csv',parse_dates=['Datetime'])
+df = pd.read_csv('Fitness_data.csv',parse_dates=['Datetime'])
 
 # This function get_data() reads a csv file. It is used to update our
 # data when we submit a new entry.
 def get_data():
-    data = pd.read_csv('workout.csv', parse_dates=['Datetime'])
+    data = pd.read_csv('Fitness_data.csv', parse_dates=['Datetime'])
     data.sort_values('Datetime',inplace=True)
     return data
 
