@@ -11,7 +11,7 @@ If you have problems downloading Dash, please visit the user guide [here](https:
 * Numpy - version 1.15.4
 * Plotly - version 3.6.1
 * Dash - version 0.36.0
-* Dash_table - version 3.1.11
+* Dash Table - version 3.1.11
 * Dash HTML components - version 0.13.5
 * Dash Core components - version 0.43.0 
 
