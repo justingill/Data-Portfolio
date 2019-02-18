@@ -1,4 +1,4 @@
-# NBA Analysis 16-17'
+# [NBA Analysis 16-17'](https://github.com/justingill/Data-Portfolio/blob/master/NBA%20Analysis/NBA_Analysis.ipynb)
 
 ## Directions
 This project is ran using a Jupyter notebook. If you are not familiar on how to run a Jupyter notebook,
