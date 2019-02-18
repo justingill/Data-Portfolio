@@ -1,5 +1,5 @@
 # Data Portfolio
-This is my official data portfolio repository, included inside is various projects I have completed for self teaching purposes to further my knowledge in the field of Data Science. The projects are made using Jupyter Notebooks and commented using Markdown.
+This is my official data portfolio repository, included inside is various projects I have completed for self teaching purposes to further my knowledge in the field of Data Science. The projects are listed below sorted top to bottom by most recent project. I hope you enjoy my work and find my projects to be clear, useful and informative.
 
 ## Content
 - [Fitness Tracker Web Application](https://github.com/justingill/Resume-Portfolio/blob/master/Fitness%20Web%20Application/Fitness_Tracker.py): This web application is designed to create an up-to-date dashboard tracking an individual’s weight lifting progress over time. By using the Dash framework, we create a GUI that saves various user inputs which update a database. We also implement various interactive features including, Plotly graphs and data tables to allow the user to explore their data with more depth.
