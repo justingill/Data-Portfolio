@@ -1,7 +1,7 @@
 # Data Portfolio
 This is my official data portfolio repository, included inside is various projects I have completed for self teaching purposes to further my knowledge in the field of Data Science. The projects are made using Jupyter Notebooks and commented using Markdown.
 
-## Contents
+## Content
 - [Fitness Tracker Web Application](https://github.com/justingill/Resume-Portfolio/blob/master/Fitness%20Web%20Application/Fitness_Tracker.py): This web application is designed to create an up-to-date dashboard tracking an individual’s weight lifting progress over time. By using the Dash framework, we create a GUI that saves various user inputs which update a database. We also implement various interactive features including, Plotly graphs and data tables to allow the user to explore their data with more depth.
 
 - [United Soccer League Scraper](https://github.com/justingill/Data-Portfolio/blob/master/USL%20Scraper/USL_Scraper.ipynb): This project is concerned with collecting all individual player data in the United Soccer League and also finding Reno 1868's next opponent by scraping the USL website and ESPN.com. This data is then used to make statistical comparisons between Reno 1868 and their next opponent using Plotly to create visual charts.
