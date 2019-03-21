@@ -1,5 +1,5 @@
 # Data Portfolio
-This is my official data portfolio repository, included inside is various projects I have completed for self teaching purposes to further my knowledge in the field of Data Science. The projects are made using Jupyter Notebooks and commented using Markdown.
+This is my official data portfolio repository, included inside is various projects I have completed for self teaching purposes to further my knowledge in the field of Data Science. The projects are listed below sorted top to bottom by most recent project. I hope you enjoy my work and find my projects to be clear, useful and informative.
 
 ## Content
 - [Fitness Tracker Web Application](https://github.com/justingill/Resume-Portfolio/blob/master/Fitness%20Web%20Application/Fitness_Tracker.py): This web application is designed to create an up-to-date dashboard tracking an individual’s weight lifting progress over time. By using the Dash framework, we create a GUI that saves various user inputs which update a database. We also implement various interactive features including, Plotly graphs and data tables to allow the user to explore their data with more depth.
@@ -10,4 +10,4 @@ This is my official data portfolio repository, included inside is various projec
 
 - [16-17' NBA Analysis](https://github.com/justingill/Data-Portfolio/blob/master/NBA%20Analysis/NBA_Analysis.ipynb): This is an exploratory data analysis project used to examine the 2016-17 NBA season using the NBA player stats dataset from Kaggle.com. By using libraries like Seaborn, Pandas and Numpy we can look at detailed information about players, leaderboards of the 2017 season, and observe trends from previous seasons compared to the 16-17' season giving important information on player's performance.
 
-- [City Cycle Consumption Predictions](https://github.com/justingill/Data-Portfolio/blob/master/City%20Cycle%20Consumption/CityCycleConsumption.ipynb): This is a problem drawn from the UCI machine learning repository. We are given features such as car displacement, weight, car name, etc and are tasked with creating a regression model to predict mile per gallon fuel consumption of a specific car. 
+- [City Cycle Consumption Prediction](https://github.com/justingill/Data-Portfolio/blob/master/City%20Cycle%20Consumption/CityCycleConsumption.ipynb): This is a problem drawn from the UCI machine learning repository. We are given features such as car displacement, weight, car name, etc and are tasked with creating a regression model to predict mile per gallon fuel consumption of a specific car. 
