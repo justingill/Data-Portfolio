@@ -1,5 +1,7 @@
 # [Fitness Tracker Web Application](https://github.com/justingill/Resume-Portfolio/blob/master/Fitness%20Web%20Application/Fitness_Tracker.py)
 
+# ![Dash Example](https://github.com/justingill/Resume-Portfolio/blob/master/Fitness%20Web%20Application/dash_example.PNG "Web Page Example")
+
 ## Directions
 To run this program, you must simply run the command 'python Fitness_Tracker.py' in the console. If successful, a local server
 should start up. First, copy the link provided after the words "Running on..". Paste this link in your browser which will allow you to access the web application on your personal computer.
