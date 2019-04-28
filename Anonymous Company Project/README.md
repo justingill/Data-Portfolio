@@ -1,4 +1,4 @@
-# [Anonymous Company ](https://github.com/justingill/Data-Portfolio/blob/master/Anonymous%20Company/CityCycleConsumption.ipynb)
+# [Anonymous Company Analysis](https://github.com/justingill/Data-Portfolio/blob/master/Anonymous%20Company%20Project/AnonymousCompany.ipynb)
 
 ## Directions
 This project is ran using a Jupyter notebook. If you are not familiar on how to run a Jupyter notebook,
@@ -14,4 +14,4 @@ Otherwise, you may click on the .ipynb file above and look through the notebook 
 * Scikit-learn - version 0.20.2
 
 ## Description
-This is a problem drawn from the UCI machine learning repository. We are given features such as car displacement, weight, car name, etc and are tasked with creating a regression model to predict mile per gallon fuel consumption of a specific car.
+
