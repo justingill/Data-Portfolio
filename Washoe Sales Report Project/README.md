@@ -1,4 +1,4 @@
-# [2017 Washoe Sales Report Analysis](https://github.com/justingill/Data-Portfolio/blob/master/Washoe%20Sales%20Report/WashoeSalesReport2017.ipynb)
+# [2017 Washoe Sales Report Analysis](https://github.com/justingill/Data-Portfolio/blob/master/Washoe%20Sales%20Report%20Project/WashoeSalesReport2017.ipynb)
 
 ## Directions
 This project is ran using a Jupyter notebook. If you are not familiar on how to run a Jupyter notebook,
