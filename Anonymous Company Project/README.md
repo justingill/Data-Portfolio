@@ -11,7 +11,11 @@ Otherwise, you may click on the .ipynb file above and look through the notebook 
 * Numpy - version 1.15.4
 * Seaborn - version 0.9.0
 * Matplotlib - version 3.0.2
-* Scikit-learn - version 0.20.2
+* Xlrd - version 1.2.0
+
+## Other Software Used
+* Microsoft PowerPoint - version 1808
+* Tableau - version 2019.1
 
 ## Description
 
