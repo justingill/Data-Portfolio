@@ -18,4 +18,4 @@ Otherwise, you may click on the .ipynb file above and look through the notebook 
 * Tableau - version 2019.1
 
 ## Description
-
+This project is concerned with analyzing the features and view counts of 100 anonymous videos. Using different statistical tools, we can categorize the videos into being: hot, stable or part of everything else. The insight gained from classifying the videos will hypothetically be used to inform the rest of the company on video placement among the website to optimize viewer interactions. The data is then prepared in Tableau and outputted to a PowerPoint for a presentation that can be given to the company.
