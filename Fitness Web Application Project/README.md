@@ -1,6 +1,6 @@
-# [Fitness Tracker Web Application](https://github.com/justingill/Resume-Portfolio/blob/master/Fitness%20Web%20Application/Fitness_Tracker.py)
+# [Fitness Tracker Web Application](https://github.com/justingill/Resume-Portfolio/blob/master/Fitness%20Web%20Application%20Project/Fitness_Tracker.py)
 
-# ![Dash Example](https://github.com/justingill/Resume-Portfolio/blob/master/Fitness%20Web%20Application/dash_example.PNG "Web Page Example")
+# ![Dash Example](https://github.com/justingill/Resume-Portfolio/blob/master/Fitness%20Web%20Application%20Project/dash_example.PNG "Web Page Example")
 
 ## Directions
 To run this program, you must simply run the command 'python Fitness_Tracker.py' in the console. If successful, a local server
