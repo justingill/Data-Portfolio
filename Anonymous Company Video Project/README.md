@@ -1,4 +1,4 @@
-# [Anonymous Company Analysis](https://github.com/justingill/Data-Portfolio/blob/master/Anonymous%20Company%20Project/AnonymousCompany.ipynb)
+# [Anonymous Company Video Analysis](https://github.com/justingill/Data-Portfolio/blob/master/Anonymous%20Company%20Video%20Project/AnonymousCompany.ipynb)
 
 ## Directions
 This project is ran using a Jupyter notebook. If you are not familiar on how to run a Jupyter notebook,
