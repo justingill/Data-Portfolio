@@ -1,4 +1,4 @@
-# [City Cycle Consumption Prediction](https://github.com/justingill/Data-Portfolio/blob/master/City%20Cycle%20Consumption/CityCycleConsumption.ipynb)
+# [City Cycle Consumption Prediction](https://github.com/justingill/Data-Portfolio/blob/master/City%20Cycle%20Consumption%20Project/CityCycleConsumption.ipynb)
 
 ## Directions
 This project is ran using a Jupyter notebook. If you are not familiar on how to run a Jupyter notebook,
