@@ -1,4 +1,4 @@
-# [United Soccer League Scraper](https://github.com/justingill/Data-Portfolio/blob/master/USL%20Scraper%20Project/USL_Scraper.ipynb)
+# [United Soccer League Scraper, Analysis & Dashboard](https://github.com/justingill/Data-Portfolio/blob/master/USL%20Scraper%20Project/USL_Scraper.ipynb)
 
 ## Directions
 This project is ran using a Jupyter notebook. If you are not familiar on how to run a Jupyter notebook,
@@ -18,4 +18,4 @@ For the program to run correctly, you must have chromedriver.exe in the folder w
 * Plotly - version 3.6.1
 
 ## Description
-This project is concerned with collecting all individual player data in the United Soccer League and also finding Reno 1868's next opponent by scraping the USL website and ESPN.com. This data is then used to make statistical comparisons between Reno 1868 and their next opponent using Plotly to create visual charts.
+This project is concerned with collecting all individual player data in the United Soccer League and also finding Reno 1868's next opponent by scraping the USL website. This data is then used to make statistical comparisons between Reno 1868 and their next opponent using Plotly and Tableau to create visual charts on a weekly basis.
