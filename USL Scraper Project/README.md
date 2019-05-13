@@ -1,5 +1,9 @@
 # [United Soccer League Scraper, Analysis & Dashboard](https://github.com/justingill/Data-Portfolio/blob/master/USL%20Scraper%20Project/USL_Scraper.ipynb)
 
+# ![Team Stats Dashboard](https://github.com/justingill/Resume-Portfolio/blob/master/USL%20Scraper%20Project/Team_Stats.PNG)
+
+# ![Player Stats Daashboard](https://github.com/justingill/Resume-Portfolio/blob/master/USL%20Scraper%20Project/Player_Stats.PNG)
+
 ## Directions
 This project is ran using a Jupyter notebook. If you are not familiar on how to run a Jupyter notebook,
 please visit this [youtube video](https://www.youtube.com/watch?v=o6aOqkmrrb4) to properly install Jupyter Notebooks.
