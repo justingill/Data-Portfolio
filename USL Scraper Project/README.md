@@ -18,4 +18,4 @@ For the program to run correctly, you must have chromedriver.exe in the folder w
 * Plotly - version 3.6.1
 
 ## Description
-This project is concerned with collecting all individual player data in the United Soccer League and also finding Reno 1868's next opponent by scraping the USL website. This data is then used to make statistical comparisons between Reno 1868 and their next opponent using Plotly and Tableau to create visual charts on a weekly basis.
+This project is concerned with collecting all individual player data in the United Soccer League by scraping the USL website. This data is then used to make statistical comparisons between Reno 1868 and their next opponent using Plotly and Tableau to create visual charts and a dashboard on a weekly basis to track the current soccer season.
